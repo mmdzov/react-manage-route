@@ -5,7 +5,7 @@ Requirements:
 react-router-dom
 
 Usage:
-At the highest level of your components, such as App.js, run this command: useManageRoute ({mode: "root"});
+At the highest level of your components, such as App.js, run this command: useReactManageRoute ({mode: "root"});
 
 Note: This hook must be imported.
 
